@@ -1,6 +1,17 @@
-Ekip İsmi: 133
+TAKIM İSMİ
 
-Ürün İsmi: Askıda Uzman
+Takım Flutter 133
+
+TAKIM ELEMANLARI
+
+İrem Sarıyerlioğlu: Scrum Master
+Çağrı Osman Ediz: Product Owner
+Özlem Güneş: Developer
+Alin İrem Demir: Developer
+Nida Kayaduman: Developer
+
+
+
 
 
 ## Getting Started
