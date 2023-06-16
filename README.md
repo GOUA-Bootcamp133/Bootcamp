@@ -47,7 +47,7 @@ Askıda Uzman, geniş bir kullanıcı tabanına hitap eden bir uygulamadır. Ö�
 
 JURİYE NOT
 
-Final haftasında olmamız sebebiyle uygulamayı kodlaştırma konusunda istediğimiz kadar yol alamadık.
+Final haftasında olmamız sebebiyle uygulamayı kodlaştırma konusunda istediğimiz kadar yol alamadık. Gelecek sprintlerde bu konu üzerinde daha çok yoğunlaşacağız.
 
 SPRİNT REVİEW
 
