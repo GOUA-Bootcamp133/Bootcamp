@@ -59,7 +59,7 @@ Görev dağılımı yapılmıştır şu an için görevlerde bir değişiklik yo
 
 DAILY VE UYGULAMA EKRAN GÖRÜNTÜLERİ
 
-Daily ve App Screenshots dosyalarında ilgili ekran görüntüleri bulunuyor.
+Daily, Plans ve App Screenshots dosyalarında ilgili ekran görüntüleri bulunuyor.
 
 
 
