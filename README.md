@@ -67,7 +67,9 @@ Daily, Plans ve App Screenshots dosyalarında ilgili ekran görüntüleri bulunu
 ![plan 1](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136114162/e0e17881-df14-45da-8c58-429f38296c1f)
 
 
-
+![1](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136114162/5d7588bd-088a-4780-bb76-5202738ddaa5)
+![2](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136114162/4cab73bf-f205-432a-87ea-20c131abeb35)
+![3](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136114162/309e7c7a-5ffa-41f8-a9ed-9de72e40d97d)
 
 
 
