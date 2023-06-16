@@ -55,7 +55,7 @@ Uygulamanın on boarding ekranı kodlanmaya başlamıştır. Login ekranı üzer
 
 SPRİNT RETROSPECTİVE
 
-Görev dağılımı yapılmıştır.
+Görev dağılımı yapılmıştır şu an için görevlerde bir değişiklik yoktur.
 
 
 
