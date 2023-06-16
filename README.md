@@ -14,7 +14,7 @@ Alin İrem Demir: Developer
 
 Nida Kayaduman: Developer
 
-ÜRÜN iSMİ
+ÜRÜN İSMİ
 
 Askıda Uzman
 
