@@ -5,6 +5,7 @@ class InfoPage0 extends StatelessWidget {
   Widget build(BuildContext context) {
     return  Container(
       color: Colors.orangeAccent[100],
+
     );
   }
 }
