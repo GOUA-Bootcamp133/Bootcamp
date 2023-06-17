@@ -51,6 +51,10 @@ Final haftasında olmamız sebebiyle uygulamayı kodlaştırma konusunda istedi�
 
 SPRİNT 1
 
+SPRİNT NOTLARI
+
+Uygulamamızda on boarding ekranı ve login üzerinde çalışıyoruz. Tıkladığımızda diğer page e gidiyor.
+
 SPRİNT İÇİNDE TAMAMLANMASI TAHMİN EDİLEN PUAN
 
 30 Puan
@@ -59,9 +63,13 @@ PUAN TAMAMLAMA MANTIĞI
 
 Ön değerlendirme kriterlerinde toplamamız gereken toplam puan 90'dır. Sprint 1 için hedeflediğimiz puan 30 çünkü 3 sprinte bölündüğünde sprint başı 30 puan toplamamız gerekiyor.
 
+BACKLOG DÜZENİ VE STORY SEÇİMLERİ
+
+Backlogumuz 3 ana kısımdan oluşmaktadır. Yapılacaklar, devam edenler ve tamamlananlar. Renk renk ayrılmış ve altına da son durumları işaretlenmiştir. Story renklerinde kırmızı yapılacakları, sarı devam edenleri ve mavi tamamlananları temsil etmektedir.
+
 DAILY SCRUM
 
-Daily Scrum toplantıları slack, whatsapp ve zoom üzerinden gerçekleştirilmektedir. Whatsapp konuşmalarımızdan örnekler yukarıda bulununan dosyanın için de mevcuttur. Ekte paylaşacağımız word'de de kısaca yazmaktadır. [SPRİNT 1 DAILY.docx](https://github.com/GOUA-Bootcamp133/Bootcamp/files/11779116/SPRINT.1.DAILY.docx)
+Daily Scrum toplantıları slack, whatsapp ve zoom üzerinden gerçekleştirilmektedir. Whatsapp konuşmalarımızdan örnekler yukarıda bulununan dosyanın için de mevcuttur. Ekte paylaşacağımız word'de de kısaca yazmaktadır. [SPRİNT 1 DAILY.docx](https://github.com/GOUA-Bootcamp133/Bootcamp/files/11779603/SPRINT.1.DAILY.docx)
 
 SPRİNT REVİEW
 
