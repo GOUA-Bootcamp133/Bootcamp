@@ -61,7 +61,7 @@ PUAN TAMAMLAMA MANTIĞI
 
 DAILY SCRUM
 
-Daily Scrum toplantıları slack, whatsapp ve zoom üzerinden gerçekleştirilmektedir. Whatsapp konuşmalarımızdan örnekler yukarıda bulununan dosyanın için de mevcuttur. Ekte paylaşacağımız word'de de kısaca yazmaktadır. 
+Daily Scrum toplantıları slack, whatsapp ve zoom üzerinden gerçekleştirilmektedir. Whatsapp konuşmalarımızdan örnekler yukarıda bulununan dosyanın için de mevcuttur. Ekte paylaşacağımız word'de de kısaca yazmaktadır. [SPRİNT 1 DAILY.docx](https://github.com/GOUA-Bootcamp133/Bootcamp/files/11779116/SPRINT.1.DAILY.docx)
 
 SPRİNT REVİEW
 
