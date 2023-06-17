@@ -57,7 +57,7 @@ SPRİNT İÇİNDE TAMAMLANMASI TAHMİN EDİLEN PUAN
 
 PUAN TAMAMLAMA MANTIĞI
 
-Ön değerlendirme kriterlerinde toplamamız gerekn toplam puan 90'dır. Sprint 1 için hedeflediğimiz puan 30 çünkü 3 sprinte bölündüğünde sprint başı 30 puan toplamamız gerekiyor.
+Ön değerlendirme kriterlerinde toplamamız gereken toplam puan 90'dır. Sprint 1 için hedeflediğimiz puan 30 çünkü 3 sprinte bölündüğünde sprint başı 30 puan toplamamız gerekiyor.
 
 DAILY SCRUM
 
