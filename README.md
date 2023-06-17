@@ -49,6 +49,20 @@ JURİYE NOT
 
 Final haftasında olmamız sebebiyle uygulamayı kodlaştırma konusunda istediğimiz kadar yol alamadık. Gelecek sprintlerde bu konu üzerinde daha çok yoğunlaşacağız.
 
+SPRİNT 1
+
+SPRİNT İÇİNDE TAMAMLANMASI TAHMİN EDİLEN PUAN
+
+30 Puan
+
+PUAN TAMAMLAMA MANTIĞI
+
+Ön değerlendirme kriterlerinde toplamamız gerekn toplam puan 90'dır. Sprint 1 için hedeflediğimiz puan 30 çünkü 3 sprinte bölündüğünde sprint başı 30 puan toplamamız gerekiyor.
+
+DAILY SCRUM
+
+Daily Scrum toplantıları slack, whatsapp ve zoom üzerinden gerçekleştirilmektedir. Whatsapp konuşmalarımızdan örnekler yukarıda bulununan dosyanın için de mevcuttur. Ekte paylaşacağımız word'de de kısaca yazmaktadır. 
+
 SPRİNT REVİEW
 
 Uygulamanın on boarding ekranı kodlanmaya başlamıştır. Login ekranı üzerine de çalışılmaya devam edilmektedir.
@@ -57,7 +71,7 @@ SPRİNT RETROSPECTİVE
 
 Görev dağılımı yapılmıştır şu an için görevlerde bir değişiklik yoktur.
 
-DAILY VE UYGULAMA EKRAN GÖRÜNTÜLERİ
+SPRINT BOARD VE UYGULAMA EKRAN GÖRÜNTÜLERİ
 
 Daily, Plans ve App Screenshots dosyalarında ilgili ekran görüntüleri bulunuyor.
 
