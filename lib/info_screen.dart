@@ -63,7 +63,6 @@ class _InfoScreenState extends State<InfoScreen> {
                         },
                         child: Text("Atla"),
                       ),
-
                     ],
                   ),
 
