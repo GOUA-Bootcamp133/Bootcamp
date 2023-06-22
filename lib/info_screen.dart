@@ -4,7 +4,7 @@ import 'welcome_screens/info_page0.dart';
 import 'welcome_screens/info_page1.dart';
 import 'package:flutter/material.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
-
+import 'login_page.dart';
 import 'welcome_screens/info_page2.dart';
 
 class InfoScreen extends StatefulWidget {
@@ -53,7 +53,13 @@ class _InfoScreenState extends State<InfoScreen> {
                       Container(child: Text(""),),
                       GestureDetector(
                         onTap: (){
-
+                            Navigator.of(context).push(
+                              MaterialPageRoute(
+                                  builder: (context)
+                                {
+                                  return LoginPage();
+                                }
+                            ));
                         },
                         child: Text("Atla"),
                       ),
