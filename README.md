@@ -49,6 +49,28 @@ JURİYE NOT
 
 Final haftasında olmamız sebebiyle uygulamayı kodlaştırma konusunda istediğimiz kadar yol alamadık. Gelecek sprintlerde bu konu üzerinde daha çok yoğunlaşacağız.
 
+SPRİNT 1
+
+SPRİNT NOTLARI
+
+Uygulamamızda on boarding ekranı ve login üzerinde çalışıyoruz. Tıkladığımızda diğer page e gidiyor.
+
+SPRİNT İÇİNDE TAMAMLANMASI TAHMİN EDİLEN PUAN
+
+30 Puan
+
+PUAN TAMAMLAMA MANTIĞI
+
+Ön değerlendirme kriterlerinde toplamamız gereken toplam puan 90'dır. Sprint 1 için hedeflediğimiz puan 30 çünkü 3 sprinte bölündüğünde sprint başı 30 puan toplamamız gerekiyor.
+
+BACKLOG DÜZENİ VE STORY SEÇİMLERİ
+
+Backlogumuz 3 ana kısımdan oluşmaktadır. Yapılacaklar, devam edenler ve tamamlananlar. Renk renk ayrılmış ve altına da son durumları işaretlenmiştir. Story renklerinde kırmızı yapılacakları, sarı devam edenleri ve mavi tamamlananları temsil etmektedir.
+
+DAILY SCRUM
+
+Daily Scrum toplantıları slack, whatsapp ve zoom üzerinden gerçekleştirilmektedir. Whatsapp konuşmalarımızdan örnekler yukarıda bulununan dosyanın için de mevcuttur. Ekte paylaşacağımız word'de de kısaca yazmaktadır. [SPRİNT 1 DAILY.docx](https://github.com/GOUA-Bootcamp133/Bootcamp/files/11779603/SPRINT.1.DAILY.docx)
+
 SPRİNT REVİEW
 
 Uygulamanın on boarding ekranı kodlanmaya başlamıştır. Login ekranı üzerine de çalışılmaya devam edilmektedir.
@@ -57,17 +79,19 @@ SPRİNT RETROSPECTİVE
 
 Görev dağılımı yapılmıştır şu an için görevlerde bir değişiklik yoktur.
 
-DAILY VE UYGULAMA EKRAN GÖRÜNTÜLERİ
+SPRINT BOARD VE UYGULAMA EKRAN GÖRÜNTÜLERİ
 
 Daily, Plans ve App Screenshots dosyalarında ilgili ekran görüntüleri bulunuyor.
 
 
 
 
+![plan 1](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136114162/e0e17881-df14-45da-8c58-429f38296c1f)
 
 
-
-
+![1](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136114162/5d7588bd-088a-4780-bb76-5202738ddaa5)
+![2](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136114162/4cab73bf-f205-432a-87ea-20c131abeb35)
+![3](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136114162/309e7c7a-5ffa-41f8-a9ed-9de72e40d97d)
 
 
 
