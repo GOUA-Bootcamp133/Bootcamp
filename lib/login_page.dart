@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'text_box.dart';
+import 'sign_in_button.dart';
 class LoginPage extends StatefulWidget {
   LoginPage({Key? key}) : super(key: key);
 
@@ -15,16 +16,19 @@ class _LoginPageState extends State<LoginPage> {
   final passwordController= TextEditingController();
 //şifre bölümü button kontrol
   bool obscure=true;
+  void signIn(){
 
+  }
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      resizeToAvoidBottomInset: false, // altta hata bannerı çıkmaması için
       backgroundColor: Color(0xFFDBDFAA),
       body: SafeArea(
         child: Center(
           child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
             children: [
-              const SizedBox(height: 70,),
               //logo
               Icon(
                   Icons.account_circle_outlined,
@@ -93,11 +97,64 @@ class _LoginPageState extends State<LoginPage> {
             ),
           ),
               //şifremi unuttum
-              const SizedBox(height: 20,),
-              Text("Şifremi Unuttum.", style: TextStyle(color: Colors.black54),)
+              const SizedBox(height: 15,),
+              //*** Gesture ile button işlevi ver
+              Text("Şifremi Unuttum.", style: TextStyle(color: Colors.black54),),
               //giriş
+              SizedBox(height: 15,),
+              SignIn(
+                onTap: signIn,
+              ),
+              SizedBox(
+                height: 25,
+              ),
               //google ile devam et
+              Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 22),
+                child: Row(
+                  children: [
+                    Expanded(
+                      child: Divider(
+                        thickness: 1,
+                        color: Colors.grey,
+                      ),
+                    ),
+                    Padding(
+                      padding: const EdgeInsets.symmetric(horizontal: 10),
+                      child: Text("ya da Google ile devam et", style: TextStyle(color: Colors.blueGrey),),
+                    ),
+                    Expanded(
+                      child: Divider(
+                        thickness: 1,
+                        color: Colors.grey,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              //google giriş
+              Container(
+                margin: EdgeInsets.symmetric(horizontal: 45,vertical: 10),
+                  decoration: BoxDecoration(
+                    borderRadius: BorderRadius.circular(15),
+                    color: Colors.white30,
+                  ),
+                  child: Image.asset("lib/images/google0.png"),),
+
+
+              SizedBox(height: 25,),
               //kayıt ol
+              Padding(
+                padding: const EdgeInsets.only(top:60),
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Text("Şimdi Bize",style: TextStyle(color:Colors.black54),),
+                    SizedBox(width: 5,),
+                    Text("Katıl",style: TextStyle(color: Colors.blue, fontWeight: FontWeight.bold),),
+                  ],
+                ),
+              ),
             ],
           ),
         ),
