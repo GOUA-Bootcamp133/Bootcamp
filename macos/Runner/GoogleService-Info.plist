@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1009330445595-n3h65jj4vd235g98mr4oat3oin35onk7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1009330445595-n3h65jj4vd235g98mr4oat3oin35onk7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDmH0-MbqAvlGj6ZXaRbXYmvNfXBbWp_KQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1009330445595</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.bootcampGoua.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>bootcampauthenticator</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bootcampauthenticator.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1009330445595:ios:c7cd8db503454697b5c7be</string>
+</dict>
+</plist>
