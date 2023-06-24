@@ -7,31 +7,31 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1009330445595:android:2eaa43046a86dcb9b5c7be",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.example.bootcamp_goua"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1009330445595-1odp0ruhjjgjupqg414m1s8jj7auve8n.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyArgEjshSJ_n9ZJzVhJdaLpeejK2ZW9a7w"
+          "current_key": ""
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1009330445595-1odp0ruhjjgjupqg414m1s8jj7auve8n.apps.googleusercontent.com",
+              "client_id": "",
               "client_type": 3
             },
             {
-              "client_id": "1009330445595-39qthd6351tq3hcutitmtilrsc2tct2q.apps.googleusercontent.com",
+              "client_id": "",
               "client_type": 2,
               "ios_info": {
                 "bundle_id": "com.example.bootcampGoua"
