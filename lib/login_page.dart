@@ -17,7 +17,12 @@ class _LoginPageState extends State<LoginPage> {
 //şifre bölümü button kontrol
   bool obscure=true;
   void signIn() async {
+    showDialog(context: context, builder: (context){
+      return const Center(child: CircularProgressIndicator(),
+      );
+    },);
   await FirebaseAuth.instance.signInWithEmailAndPassword(email: usernameController.text, password: passwordController.text);
+  Navigator.pop(context);
   }
   @override
   Widget build(BuildContext context) {
