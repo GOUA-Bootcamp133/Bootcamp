@@ -4,7 +4,8 @@ import 'package:flutter/material.dart';
 import 'sign_in_button.dart';
 
 class LoginPage extends StatefulWidget {
-  LoginPage({Key? key}) : super(key: key);
+  final Function()? onTap;
+  LoginPage({super.key,required this.onTap});
 
   @override
   State<LoginPage> createState() => _LoginPageState();
@@ -17,12 +18,47 @@ class _LoginPageState extends State<LoginPage> {
 //şifre bölümü button kontrol
   bool obscure=true;
   void signIn() async {
+
     showDialog(context: context, builder: (context){
       return const Center(child: CircularProgressIndicator(),
       );
     },);
-  await FirebaseAuth.instance.signInWithEmailAndPassword(email: usernameController.text, password: passwordController.text);
-  Navigator.pop(context);
+    // hata mesajına göre popup
+    void wrongEmail(){
+      showDialog(context: context, builder: (context){
+        return const AlertDialog(title: Center(child: Text("Geçersiz Kullanıcı Adı!",style: TextStyle(color: Colors.black54,fontWeight: FontWeight.bold),)));
+      },);
+    }
+    void wrongPassw(){
+      showDialog(context: context, builder: (context){
+        return const AlertDialog(title: Center(child: Text("Hatalı Şifre!",style: TextStyle(color: Colors.black54,fontWeight: FontWeight.bold),)));
+      },);
+    }
+    void invalidEmail(){
+      showDialog(context: context, builder: (context){
+        return const AlertDialog(title: Center(child: Text("Lütfen geçerli bir mail giriniz!",style: TextStyle(color: Colors.black54,fontWeight: FontWeight.bold),)));
+      },);
+    }
+  try{
+    await FirebaseAuth.instance.signInWithEmailAndPassword(
+        email: usernameController.text,
+        password: passwordController.text
+    );
+    // yükleme ekranı için
+    Navigator.pop(context);
+  } on FirebaseAuthException catch (error){
+    Navigator.pop(context);
+      if(error.code=="user-not-found"){
+        wrongEmail();
+      }
+      else if(error.code=="wrong-password"){
+        wrongPassw();
+      }
+      else if(error.code=="invalid-email"){
+        invalidEmail();
+      }
+
+  }
   }
   @override
   Widget build(BuildContext context) {
@@ -111,11 +147,11 @@ class _LoginPageState extends State<LoginPage> {
                 SignIn(
                   onTap: signIn,
                 ),
-                SizedBox(
+                const SizedBox(
                   height: 25,
                 ),
                 //google ile devam et
-                Padding(
+                const Padding(
                   padding: const EdgeInsets.symmetric(horizontal: 22),
                   child: Row(
                     children: [
@@ -157,7 +193,9 @@ class _LoginPageState extends State<LoginPage> {
                     children: [
                       Text("Şimdi Bize",style: TextStyle(color:Colors.black54),),
                       SizedBox(width: 5,),
-                      Text("Katıl",style: TextStyle(color: Colors.blue, fontWeight: FontWeight.bold),),
+                      GestureDetector(
+                        onTap: widget.onTap,
+                          child: Text("Katıl",style: TextStyle(color: Colors.blue, fontWeight: FontWeight.bold),)),
                     ],
                   ),
                 ),

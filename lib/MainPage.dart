@@ -10,16 +10,17 @@ class MainPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.redAccent,
-      appBar: AppBar(automaticallyImplyLeading: false, actions: [
+      backgroundColor: Colors.pink[100],
+      appBar: AppBar(automaticallyImplyLeading: false, backgroundColor: Colors.green,
+          actions: [
         IconButton(onPressed: userOut, icon: Icon(Icons.logout)),
       ]),
       body: SafeArea(
         child: Center(child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Text("Anasayfaya giriş yapıldı.", style: TextStyle( color: Colors.lightGreen, fontSize: 30, fontWeight: FontWeight.bold),),
-            Text(user.email!, style: TextStyle( color: Colors.lightGreen, fontSize: 30, fontWeight: FontWeight.bold),),
+            Text("Anasayfaya giriş yapıldı.", style: TextStyle( color: Colors.pink, fontSize: 30, fontWeight: FontWeight.bold),),
+            Text(user.email!, style: TextStyle( color: Colors.redAccent, fontSize: 30, fontWeight: FontWeight.bold),),
           ],
         )),
       ),
