@@ -135,7 +135,7 @@ SPRINT BOARD VE UYGULAMA EKRAN GÖRÜNTÜLERİ
 
 Daily, Scrum ve App ile ilgili ekran resimleri ekte mevcuttur.
 
-
+![WhatsApp Görsel 2023-07-02 saat 14 22 09](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136116755/4e57ebfc-1fb2-475c-98a9-b5f3ebe7c490)
 
 
 
