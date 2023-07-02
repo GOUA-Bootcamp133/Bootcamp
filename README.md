@@ -118,7 +118,8 @@ Uygulama fikrimizi revize etmeye karar verdik. İlk uygulama fikrimiz 'Askıda U
 
 DAILY SCRUM
 
-Daily Scrum toplantıları slack, whatsapp ve zoom üzerinden gerçekleştirilmektedir. Whatsapp konuşmalarımızdan örnekler ve kısaca gerçekleştirdiğimz sprint süreci ekte paylaşacağımız dosyada mevcuttur.
+Daily Scrum toplantıları slack, whatsapp ve zoom üzerinden gerçekleştirilmektedir. Whatsapp konuşmalarımızdan örnekler ve kısaca gerçekleştirdiğimz sprint süreci ekte paylaşacağımız dosyada mevcuttur. [SPRİNT 2 DAILY.docx](https://github.com/GOUA-Bootcamp133/Bootcamp/files/11929355/SPRINT.2.DAILY.docx)
+
 
 SPRİNT REVİEW
 
