@@ -16,38 +16,35 @@ Nida Kayaduman: Developer
 
 ÜRÜN İSMİ
 
-Askıda Uzman
+Veresiye Defteri
 
 ÜRÜN AÇIKLAMASI
 
-Askıda Uzman, insanların ihtiyaç duydukları konularda uzmanlardan destek alabilecekleri bir mobil uygulamadır. Bu uygulama, sosyal sorumluluk felsefesi üzerine inşa edilmiş olup, insanlar arasında yardımlaşmayı teşvik eder. İhtiyaç sahipleri, çeşitli konularda uzmanlaşmış bireylerden ücretsiz veya indirimli hizmetler alabilirken, uzmanlar da topluma katkıda bulunma ve yeteneklerini paylaşma fırsatı elde ederler.
+"Veresiye Defteri" isimli uygulama, veresiye hizmeti sunan mağaza ve dükkanlar için özel olarak tasarlanmış bir mobil uygulamadır. Satıcılar, veresiye olarak verdiği ürünleri güvenli bir şekilde kaydetmek ve takip etmek için bu uygulamayı kullanabilirler. Uygulama, veresiye defterini elektronik bir platforma taşıyarak kağıt tabanlı defterlerle yaşanan riskleri ortadan kaldırır ve süreci daha güvenli ve kullanıcı dostu hale getirir.
 
 Fonksiyonlar:
-1. Uzman Kaydı: Uygulama, farklı uzmanlık alanlarına sahip kişilerin kaydolmasına olanak tanır. Uzmanlar, uzmanlık alanlarını belirtir ve sundukları hizmetleri tanımlarlar. Özgeçmişlerini ve referanslarını yükleyebilir, çalışma saatlerini ayarlayabilir ve ulaşılabilirlik durumlarını belirtebilirler.
 
-2. İhtiyaç Sahipleri için Talep Oluşturma: İhtiyaç sahipleri, ihtiyaç duydukları konuyu, hizmeti veya uzmanlık alanını açıklayarak talep oluşturabilirler. Örneğin, bir öğrenci matematik derslerinde destek isteyebilir veya bir girişimci iş planı oluşturma konusunda yardım talep edebilir.
+1.Müşteri Yönetimi: Uygulama, satıcıların müşteri bilgilerini kaydetmelerine olanak sağlar. Müşteri adı, iletişim bilgileri, ödeme geçmişi gibi bilgiler kolayca girilebilir ve saklanabilir.
 
-3. İletişim Arayüzü: İhtiyaç sahipleri ve uzmanlar, uygulama içindeki iletişim arayüzü üzerinden birbiriyle iletişim kurabilirler. Mesajlaşma, sesli veya görüntülü görüşme gibi iletişim seçenekleri sunulabilir.
+2.Veresiye İşlemleri: Uygulama, veresiye olarak verilen ürünlerin kaydedilmesini ve takibini sağlar. Satıcılar, hangi ürünleri ve ne kadar veresiye verdiklerini not alabilir, ödeme tarihlerini belirleyebilir ve toplam borç miktarını görebilirler.
+
+3.Ödeme Takibi: Uygulama, yapılan ödemelerin takibini kolaylaştırır. Satıcılar, müşterilerin ödeme yapması durumunda bunu kaydedebilir, ödeme tarihini güncelleyebilir ve kalan borç miktarını hesaplayabilir.
 
 ÜRÜN ÖZELLİKLERİ
 
-Kullanıcı dostu arayüz: Kolay gezinme ve kullanım için kullanıcı dostu bir arayüz sağlanır.
+Kullanıcı Dostu Arayüz: Kolay kullanılabilir ve anlaşılır bir arayüz sağlar.
 
-Profil yönetimi: Kullanıcılar, kişisel bilgilerini, tercihlerini ve ilgi alanlarını yönetebilirler.
+Veresiye Kaydı: Veresiye olarak verilen ürünlerin detaylarını kaydedebilir.
 
-Bildirimler: Kullanıcılar, talepleri veya yanıtları hakkında bildirimler alabilirler.
+Ödeme Takibi: Müşterilerin yaptığı ödemeleri takip edebilir ve borç miktarını güncelleyebilir.
 
-Gizlilik ve güvenlik: Kullanıcı bilgileri ve iletişim gizliliği, güvenliği ön planda tutularak korunur.
+Müşteri Bilgileri: Müşterilerin iletişim bilgileri, ödeme geçmişi gibi bilgileri kaydedebilir.
 
-Sosyal medya entegrasyonu: Kullanıcılar, hizmetleri paylaşabilir veya etkileşimde bulunabilirler.
+Güvenlik ve Veri Koruma: Müşteri verilerini güvenli bir şekilde saklar ve gizlilik sağlar.
 
-HEDEF KİTLE
+HEDEF KİTLESi
 
-Askıda Uzman, geniş bir kullanıcı tabanına hitap eden bir uygulamadır. Öğrenciler, girişimciler, yeni mezunlar, öğretmenler, danışmanlar, diyetisyenler ve daha birçok alandan insanlar bu uygulamayı kullanabilir. Hem ihtiyaç sahipleri hem de uzmanlar arasında bir bağlantı noktası oluşturarak sosyal sorumluluk duygusunu teşvik eder.
-
-JURİYE NOT
-
-Final haftasında olmamız sebebiyle uygulamayı kodlaştırma konusunda istediğimiz kadar yol alamadık. Gelecek sprintlerde bu konu üzerinde daha çok yoğunlaşacağız.
+"Veresiye Defteri" uygulamasının hedef kitlesi, veresiye hizmeti sunan mağaza, dükkan ve bakalardır. Bu tür işletmeler, genellikle müşterilere veresiye seçeneği sunarlar ve bu süreci daha düzenli ve güvenli bir şekilde yönetmek isteyen satıcılar, uygulamadan fayda sağlayabilirler. Hem küçük ölçekli işletmeler hem de büyük perakende zincirleri için kullanılabilir bir uygulama olacaktır.
 
 SPRİNT 1
 
@@ -67,6 +64,10 @@ BACKLOG DÜZENİ VE STORY SEÇİMLERİ
 
 Backlogumuz 3 ana kısımdan oluşmaktadır. Yapılacaklar, devam edenler ve tamamlananlar. Renk renk ayrılmış ve altına da son durumları işaretlenmiştir. Story renklerinde kırmızı yapılacakları, sarı devam edenleri ve mavi tamamlananları temsil etmektedir.
 
+JURİYE NOT
+
+Final haftasında olmamız sebebiyle kodlama kısmına çok yoğunlaşamadık. Uygulama fikrimize, fonksiyon, özellik ve hedef kitlesini belirledik. Gelecek sprintlerde kodlama kısmına daha çok odaklanacağız.
+
 DAILY SCRUM
 
 Daily Scrum toplantıları slack, whatsapp ve zoom üzerinden gerçekleştirilmektedir. Whatsapp konuşmalarımızdan örnekler yukarıda bulununan dosyanın için de mevcuttur. Ekte paylaşacağımız word'de de kısaca yazmaktadır. [SPRİNT 1 DAILY.docx](https://github.com/GOUA-Bootcamp133/Bootcamp/files/11779603/SPRINT.1.DAILY.docx)
@@ -81,7 +82,7 @@ Görev dağılımı yapılmıştır şu an için görevlerde bir değişiklik yo
 
 SPRINT BOARD VE UYGULAMA EKRAN GÖRÜNTÜLERİ
 
-Daily, Plans ve App Screenshots dosyalarında ilgili ekran görüntüleri bulunuyor.
+Daily, Scrum ve App ile ilgili ekran resimleri ekte mevcuttur.
 
 
 
@@ -92,6 +93,48 @@ Daily, Plans ve App Screenshots dosyalarında ilgili ekran görüntüleri bulunu
 ![1](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136114162/5d7588bd-088a-4780-bb76-5202738ddaa5)
 ![2](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136114162/4cab73bf-f205-432a-87ea-20c131abeb35)
 ![3](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136114162/309e7c7a-5ffa-41f8-a9ed-9de72e40d97d)
+
+
+
+
+SPRİNT 2
+
+SPRİNT NOTLARI
+
+Uygulama fikrimizi revize ettik. Yeni uygulamamızın ismine, hedef kitlesine, özelliklerine ve fonksiyonlarına karar verdik. On boarding sayfasını, login ekranını, firebase ile giriş çıkışı ve kayıt ol sayfasını tamamladık. Hesap makinesinin ve not defterinin kodlaması da devam etmektedir.
+
+SPRİNT İÇİNDE TAMAMLANMASI TAHMİN EDİLEN PUAN
+
+30 Puan
+
+PUAN TAMAMLAMA MANTIĞI
+
+Ön değerlendirme kriterlerinde toplamamız gereken toplam puan 90'dır. Sprint 2 için hedeflediğimiz puan 30 çünkü 3 sprinte bölündüğünde sprint başı 30 puan toplamamız gerekiyor.
+
+BACKLOG DÜZENİ VE STORY SEÇİMLERİ
+
+Backlogumuz 3 ana kısımdan oluşmaktadır. Yapılacaklar, devam edenler ve tamamlananlar. Renk renk ayrılmış ve altına da son durumları işaretlenmiştir. Story renklerinde kırmızı yapılacakları, sarı devam edenleri ve mavi tamamlananları temsil etmektedir.
+
+JURİYE NOT
+
+Uygulama fikrimizi revize etmeye karar verdik. İlk uygulama fikrimiz 'Askıda Uzman'dı. Askıda Uzman fikrimizle birçok branştan insanla o uzamanlığa ihtiyaç duyan insanları bir araya getirmetkti. Ancak yaptığımız 2. Sprint zoom toplantısında 'Veresiye Defteri' isimli uygulama fikrimizin daha yaratıcı olacağına karar verip uygulamamızı revize ettik.
+
+DAILY SCRUM
+
+Daily Scrum toplantıları slack, whatsapp ve zoom üzerinden gerçekleştirilmektedir. Whatsapp konuşmalarımızdan örnekler ve kısaca gerçekleştirdiğimz sprint süreci ekte paylaşacağımız dosyada mevcuttur.
+
+SPRİNT REVİEW
+
+On boarding sayfasını, login ekranını, firebase ile giriş çıkışı ve kayıt ol sayfasını tamamladık. Hesap makinesinin ve not defterinin kodlaması da devam etmektedir.
+
+SPRİNT RETROSPECTİVE
+
+2. Sprint için tekrardan görev dağılımı yapılmıştır şu an için ana görevlerde bir değişiklik yoktur.
+
+SPRINT BOARD VE UYGULAMA EKRAN GÖRÜNTÜLERİ
+
+Daily, Scrum ve App ile ilgili ekran resimleri ekte mevcuttur.
+
 
 
 
