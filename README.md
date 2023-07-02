@@ -84,9 +84,6 @@ SPRINT BOARD VE UYGULAMA EKRAN GÖRÜNTÜLERİ
 
 Daily, Scrum ve App ile ilgili ekran resimleri ekte mevcuttur.
 
-
-
-
 ![plan 1](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136114162/e0e17881-df14-45da-8c58-429f38296c1f)
 
 
@@ -135,7 +132,11 @@ SPRINT BOARD VE UYGULAMA EKRAN GÖRÜNTÜLERİ
 
 Daily, Scrum ve App ile ilgili ekran resimleri ekte mevcuttur.
 
-![WhatsApp Görsel 2023-07-02 saat 14 22 09](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136116755/4e57ebfc-1fb2-475c-98a9-b5f3ebe7c490)
+![sprint 2 plan](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136116755/15bc074d-8a8e-4af2-a37d-bf9a816a51d6)
+
+![sprint 2](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136116755/f2758639-21e8-49a4-9334-514eede7db9a)
+![Sprint 2](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136116755/d1f8cd18-1f3e-4226-96fe-f6cec4742e2d)
+![Sprint 2](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136116755/dc8d0375-979a-4009-8fcd-4bbc853338c4)
 
 
 
