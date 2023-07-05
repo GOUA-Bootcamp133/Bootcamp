@@ -43,12 +43,13 @@ class _InfoScreenState extends State<InfoScreen> {
               ],
             ),
             Container(
-              alignment: Alignment(0,-0.8),
+              alignment: Alignment(0,-0.9),
               child:
                   Row(
                     mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                     //
                     children: [
+                      Container(child: Text(""),),
                       Container(child: Text(""),),
                       Container(child: Text(""),),
                       Container(child: Text(""),),
@@ -62,7 +63,7 @@ class _InfoScreenState extends State<InfoScreen> {
                                 }
                             ));
                         },
-                        child: Text("Atla"),
+                        child: Text("Atla", style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20, color: Colors.pink),),
                       ),
                     ],
                   ),
@@ -78,62 +79,69 @@ class _InfoScreenState extends State<InfoScreen> {
                 //color: Colors.pinkAccent,
                 //width: 700,
                 //margin: EdgeInsets.fromLTRB(50,0,50,0),
-                  child: Row(
-                        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-                        children: [
-                          firstPage ?
-                          Expanded(
-                            child: GestureDetector(
-                              onTap:(){
+                  child: Padding(
+                    padding: const EdgeInsets.only(top: 73),
+                    child: Row(
+                          mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+
+                          children: [
+                            firstPage ?
+                            Expanded(
+                              child: GestureDetector(
+                                onTap:(){
+                                  },
+                                child: Text("",
+                                textAlign: TextAlign.center,),
+                          ),
+                            )
+                            :
+                            Expanded(
+                              child: GestureDetector(
+                                onTap:(){
+                                  _controller.previousPage(
+                                      duration: Duration(milliseconds: 500),
+                                      curve: Curves.easeIn);
                                 },
-                              child: Text("",
-                              textAlign: TextAlign.center,),
-                        ),
-                          )
-                          :
-                          Expanded(
-                            child: GestureDetector(
-                              onTap:(){
-                                _controller.previousPage(
-                                    duration: Duration(milliseconds: 500),
-                                    curve: Curves.easeIn);
-                              },
-                              child: Text("Geri",textAlign: TextAlign.center,),
+                                child: Text("Geri",textAlign: TextAlign.center, style: TextStyle(fontSize: 18,fontWeight: FontWeight.bold, color: Colors.pink),),
+                              ),
                             ),
-                          ),
 
 
-                          Expanded(child: Container(
-                                alignment: Alignment(0,0),
-                                child: SmoothPageIndicator(controller: _controller, count: 3))
-                          ),
-                          lastPage
-                              ?
-                          Expanded(
-                            child: GestureDetector(
+                            Expanded(child: Container(
+                                  alignment: Alignment(0,1),
+                                  child: SmoothPageIndicator(controller: _controller, count: 3))
+                            ),
+                            lastPage
+                                ?
+                            Expanded(
+                              child: GestureDetector(
+                                onTap: (){
+                                  Navigator.of(context).push(
+                                      MaterialPageRoute(
+                                          builder: (context)
+                                          {
+                                            return Auth(); // loginpage idi önce ama kontrol gerek o yüzden auth
+                                          }
+                                      ));
+                                },
+                                  child: Text("Tamam",textAlign: TextAlign.center, style: TextStyle(fontSize: 18,fontWeight: FontWeight.bold, color: Colors.pink),),
+                              ),
+                            )
+                              : Expanded(
+                                child: GestureDetector(
                                 onTap:(){
                                   _controller.nextPage(
-                                      duration: Duration(milliseconds: 500),
-                                      curve: Curves.easeIn
-                                  );
+                                  duration: Duration(milliseconds: 500),
+                                  curve: Curves.easeIn
+                                   );
                                 },
-                                child: Text("Tamam",textAlign: TextAlign.center,),
+                                child: Text("İleri",textAlign: TextAlign.center, style: TextStyle(fontSize: 18,fontWeight: FontWeight.bold, color: Colors.pink),),
                             ),
-                          )
-                            : Expanded(
-                              child: GestureDetector(
-                              onTap:(){
-                                _controller.nextPage(
-                                duration: Duration(milliseconds: 500),
-                                curve: Curves.easeIn
-                                 );
-                              },
-                              child: Text("İleri",textAlign: TextAlign.center,),
-                          ),
-                            ),
-                        ],
+                              ),
+                          ],
 
-                          ),
+                            ),
+                  ),
 
                   ),
             ),
