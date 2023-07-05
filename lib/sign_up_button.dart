@@ -11,7 +11,7 @@ class SignUp extends StatelessWidget {
         margin: const EdgeInsets.symmetric(horizontal: 45),
         decoration: BoxDecoration(
           borderRadius: BorderRadius.circular(30),
-          color: Colors.purple,
+          color: Colors.blue[300],
         ),
         child: const Center(child: Text("Kayıt Ol",style: TextStyle(color: Colors.white, fontWeight: FontWeight.bold, fontSize: 25,),)),
       ),

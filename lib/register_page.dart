@@ -1,3 +1,4 @@
+import 'package:bootcamp_goua/services/auth_service.dart';
 import 'package:bootcamp_goua/sign_up_button.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
@@ -78,7 +79,7 @@ class _RegisterPageState extends State<RegisterPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       //resizeToAvoidBottomInset: false, // altta hata bannerı çıkmaması için ama singlechildscrollview ile gerek kalmadı düzeldi
-      backgroundColor: Color(0xFFDBDFAA),
+      backgroundColor: Colors.black12,
       body: SafeArea(
         child: Center(
           child: SingleChildScrollView(
@@ -89,7 +90,7 @@ class _RegisterPageState extends State<RegisterPage> {
                 Icon(
                   Icons.account_circle_outlined,
                   size: 150,
-                  color: Colors.purple ,
+                  color: Colors.blue[300] ,
                 ),
                 const SizedBox(height: 20,),
                 //karşılama yazısı
@@ -220,13 +221,16 @@ class _RegisterPageState extends State<RegisterPage> {
                   ),
                 ),
                 //google giriş
-                Container(
-                  margin: EdgeInsets.symmetric(horizontal: 45,vertical: 10),
-                  decoration: BoxDecoration(
-                    borderRadius: BorderRadius.circular(15),
-                    color: Colors.white30,
-                  ),
-                  child: Image.asset("lib/images/google0.png"),),
+                GestureDetector(
+                  onTap: () => AuthService().signInWithGoogle(),
+                  child: Container(
+                    margin: EdgeInsets.symmetric(horizontal: 45,vertical: 10),
+                    decoration: BoxDecoration(
+                      borderRadius: BorderRadius.circular(15),
+                      color: Colors.white30,
+                    ),
+                    child: Image.asset("lib/images/google0.png"),),
+                ),
 
 
                 SizedBox(height: 25,),
