@@ -1,5 +1,5 @@
 import 'package:bootcamp_goua/services/auth_service.dart';
-import 'package:bootcamp_goua/sign_up_button.dart';
+import 'package:bootcamp_goua/signup_in/sign_up_button.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';

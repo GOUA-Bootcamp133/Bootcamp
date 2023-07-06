@@ -1,4 +1,4 @@
-import 'package:bootcamp_goua/login_or_reg.dart';
+import 'package:bootcamp_goua/signup_in/login_or_reg.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 

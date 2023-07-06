@@ -2,7 +2,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 
-import 'menu.dart';
+import 'calculator.dart';
 class MainPage extends StatelessWidget {
   MainPage({Key? key}) : super(key: key);
   final user= FirebaseAuth.instance.currentUser!;
