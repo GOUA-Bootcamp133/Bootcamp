@@ -81,7 +81,7 @@ class _LoginPageState extends State<LoginPage> {
                 const SizedBox(height: 20,),
                 //karşılama yazısı
                 Text(
-                  "Hoşgeldiniz!",
+                  "Hoşgeldiniz !",
                   style: TextStyle(color: Colors.black54,
                   fontSize: 16,),
                 ),

@@ -95,7 +95,7 @@ class _RegisterPageState extends State<RegisterPage> {
                 const SizedBox(height: 20,),
                 //karşılama yazısı
                 Text(
-                  "Hoşgeldiniz!",
+                  "Hemen Bize Katıl !",
                   style: TextStyle(color: Colors.black54,
                     fontSize: 16,),
                 ),
