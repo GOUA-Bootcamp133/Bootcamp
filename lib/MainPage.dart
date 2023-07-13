@@ -67,6 +67,26 @@ class MainPage extends StatelessWidget {
                   ),
                   child: Icon(Icons.edit_note_sharp, size: 100,)),
             ),
+            SizedBox(height: 50,),
+            GestureDetector(
+              onTap: (){
+                Navigator.of(context).push(
+                    MaterialPageRoute(
+                        builder: (context)
+                        {
+                          return Notes(); // loginpage idi önce ama kontrol gerek o yüzden auth
+                        }
+                    ));
+              },
+              child: Container(
+                //padding: const EdgeInsets.all(70),
+                //margin: const EdgeInsets.symmetric(horizontal: 45),
+                  decoration: BoxDecoration(
+                    borderRadius: BorderRadius.circular(20),
+                    color: Colors.blue[300],
+                  ),
+                  child: Icon(Icons.calendar_month, size: 100,)),
+            ),
 
             //Text("Anasayfaya giriş yapıldı.", style: TextStyle( color: Colors.pink, fontSize: 30, fontWeight: FontWeight.bold),),
           ],
