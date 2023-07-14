@@ -1,3 +1,4 @@
+import 'package:bootcamp_goua/calendar.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
@@ -74,7 +75,7 @@ class MainPage extends StatelessWidget {
                     MaterialPageRoute(
                         builder: (context)
                         {
-                          return Notes(); // loginpage idi önce ama kontrol gerek o yüzden auth
+                          return HomePage(); // loginpage idi önce ama kontrol gerek o yüzden auth
                         }
                     ));
               },
