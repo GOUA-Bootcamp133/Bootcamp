@@ -184,6 +184,25 @@ SPRINT BOARD VE UYGULAMA EKRAN GÖRÜNTÜLERİ
 
 Daily, Scrum ve App ile ilgili ekran resimleri ekte mevcuttur.
 
+![Bootcamp F133](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136116755/f726e74c-7484-40e0-8afc-f5f394915b5c)
+![bootcamp1](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136116755/821ed8cb-4272-474a-b05f-be7cda8550ef)
+![Bootcamp2](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136116755/41415455-237b-43ec-8ee4-dce402100034)
+![bootcamp3](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136116755/9a2b0e6e-7d9a-43f1-9b3f-e7b642e0a139)
+![bootcamp4](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136116755/7eb40e74-49f7-4bb4-8358-2a0bba70374f)
+![bootcamp5](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136116755/97500bdb-6811-4ad3-b048-ac081dd4086e)
+![bootcamp6](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136116755/19467522-3357-4d03-89ff-2b2b1bda3ac8)
+![bootcamp7](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136116755/a8fcd304-0c98-4fe8-ba65-29f631c6b2de)
+![bootcamp8](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136116755/efeea790-d02b-4464-be3c-11180db70c6a)
+![bootcamp9](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136116755/4c25f3be-d2e8-4a25-a09a-3fd70956a673)
+![bootcamp10](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136116755/a9ce5dcc-eb78-4100-822e-ca829508f5f2)
+![bootcamp11](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136116755/37a3e2d6-a95e-4326-9ab2-feb8decae1e4)
+![bootcamp12](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136116755/a00d29e8-6832-42ed-a0f3-8856625d19f9)
+![bootcamp13](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136116755/6ac088e1-4b8e-412e-b4a2-fe8d4163ee6c)
+![bootcamp14](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136116755/14701890-3ed7-4e13-9b50-2f6ac60cd102)
+
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
