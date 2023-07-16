@@ -16,19 +16,25 @@ Nida Kayaduman: Developer
 
 ÜRÜN İSMİ
 
-Veresiye Defteri
+Veresiye Defteri "hesApp"
 
 ÜRÜN AÇIKLAMASI
 
-"Veresiye Defteri" isimli uygulama, veresiye hizmeti sunan mağaza ve dükkanlar için özel olarak tasarlanmış bir mobil uygulamadır. Satıcılar, veresiye olarak verdiği ürünleri güvenli bir şekilde kaydetmek ve takip etmek için bu uygulamayı kullanabilirler. Uygulama, veresiye defterini elektronik bir platforma taşıyarak kağıt tabanlı defterlerle yaşanan riskleri ortadan kaldırır ve süreci daha güvenli ve kullanıcı dostu hale getirir.
+Veresiye Defteri "hesApp" isimli uygulama, veresiye hizmeti sunan mağaza ve dükkanlar için özel olarak tasarlanmış bir mobil uygulamadır. Satıcılar, veresiye olarak verdiği ürünleri güvenli bir şekilde kaydetmek ve takip etmek için bu uygulamayı kullanabilirler. Uygulama, veresiye defterini elektronik bir platforma taşıyarak kağıt tabanlı defterlerle yaşanan riskleri ortadan kaldırır ve süreci daha güvenli ve kullanıcı dostu hale getirir.
 
 Fonksiyonlar:
 
 1.Müşteri Yönetimi: Uygulama, satıcıların müşteri bilgilerini kaydetmelerine olanak sağlar. Müşteri adı, iletişim bilgileri, ödeme geçmişi gibi bilgiler kolayca girilebilir ve saklanabilir.
 
-2.Veresiye İşlemleri: Uygulama, veresiye olarak verilen ürünlerin kaydedilmesini ve takibini sağlar. Satıcılar, hangi ürünleri ve ne kadar veresiye verdiklerini not alabilir, ödeme tarihlerini belirleyebilir ve toplam borç miktarını görebilirler.
+2.Veresiye İşlemleri: Uygulama, veresiye olarak verilen ürünlerin kaydedilmesini ve takibini sağlar. Satıcılar, hangi ürünleri ve ne kadar veresiye verdiklerini not alabilir.
 
-3.Ödeme Takibi: Uygulama, yapılan ödemelerin takibini kolaylaştırır. Satıcılar, müşterilerin ödeme yapması durumunda bunu kaydedebilir, ödeme tarihini güncelleyebilir ve kalan borç miktarını hesaplayabilir.
+3.Ödeme Takibi: Uygulama, yapılan ödemelerin takibini kolaylaştırır.
+
+4.Hesap Makinesi: Kolay bir şekilde hesap yapılmasını sağlar. Ekstra bir hesap makinesine olan ihtiyacı karşılamış olur.
+
+5.Not Defteri: Veresiye verilen ürünlerin takibini kolaylaştırır. Ekstra bir deftere ve kaleme olan ihtiyacı karşılamış olur.
+
+6.Takvim: Ödeme günlerini ve önemli tarihleri kolay bir şekilde takip etmeyi sağlar. Ekstra bir takvime olan ihtiyacı karşılamış olur.
 
 ÜRÜN ÖZELLİKLERİ
 
@@ -40,11 +46,9 @@ Veresiye Kaydı: Veresiye olarak verilen ürünlerin detaylarını kaydedebilir.
 
 Müşteri Bilgileri: Müşterilerin iletişim bilgileri, ödeme geçmişi gibi bilgileri kaydedebilir.
 
-Güvenlik ve Veri Koruma: Müşteri verilerini güvenli bir şekilde saklar ve gizlilik sağlar.
-
 HEDEF KİTLESi
 
-"Veresiye Defteri" uygulamasının hedef kitlesi, veresiye hizmeti sunan mağaza, dükkan ve bakalardır. Bu tür işletmeler, genellikle müşterilere veresiye seçeneği sunarlar ve bu süreci daha düzenli ve güvenli bir şekilde yönetmek isteyen satıcılar, uygulamadan fayda sağlayabilirler. Hem küçük ölçekli işletmeler hem de büyük perakende zincirleri için kullanılabilir bir uygulama olacaktır.
+Veresiye Defteri "hesApp" uygulamasının hedef kitlesi, veresiye hizmeti sunan mağaza, dükkan ve bakalardır. Bu tür işletmeler, genellikle müşterilere veresiye seçeneği sunarlar ve bu süreci daha düzenli ve güvenli bir şekilde yönetmek isteyen satıcılar, uygulamadan fayda sağlayabilirler. Hem küçük ölçekli işletmeler hem de büyük perakende zincirleri için kullanılabilir bir uygulama olacaktır.
 
 SPRİNT 1
 
@@ -114,11 +118,11 @@ Backlogumuz 3 ana kısımdan oluşmaktadır. Yapılacaklar, devam edenler ve tam
 
 JURİYE NOT
 
-Uygulama fikrimizi revize etmeye karar verdik. İlk uygulama fikrimiz 'Askıda Uzman'dı. Askıda Uzman fikrimizle birçok branştan insanla o uzamanlığa ihtiyaç duyan insanları bir araya getirmetkti. Ancak yaptığımız 2. Sprint zoom toplantısında 'Veresiye Defteri' isimli uygulama fikrimizin daha yaratıcı olacağına karar verip uygulamamızı revize ettik.
+Uygulama fikrimizi revize etmeye karar verdik. İlk uygulama fikrimiz 'Askıda Uzman'dı. Askıda Uzman fikrimizle birçok branştan insanla o uzamanlığa ihtiyaç duyan insanları bir araya getirmetkti. Ancak yaptığımız 2. Sprint zoom toplantısında,'Veresiye Defteri' isimli uygulama fikrimizin daha yaratıcı olacağına karar verip uygulamamızı revize ettik.
 
 DAILY SCRUM
 
-Daily Scrum toplantıları slack, whatsapp ve zoom üzerinden gerçekleştirilmektedir. Whatsapp konuşmalarımızdan örnekler ve kısaca gerçekleştirdiğimz sprint süreci ekte paylaşacağımız dosyada mevcuttur. [SPRİNT 2 DAILY.docx](https://github.com/GOUA-Bootcamp133/Bootcamp/files/11929355/SPRINT.2.DAILY.docx)
+Daily Scrum toplantıları slack, whatsapp ve zoom üzerinden gerçekleştirilmektedir. Whatsapp konuşmalarımızdan örnekler ve kısaca Sprint 2'de neler yaptığımız ekte bulununan dosyanın için de mevcuttur. [SPRİNT 2 DAILY.docx](https://github.com/GOUA-Bootcamp133/Bootcamp/files/11929355/SPRINT.2.DAILY.docx)
 
 
 SPRİNT REVİEW
@@ -140,6 +144,45 @@ Daily, Scrum ve App ile ilgili ekran resimleri ekte mevcuttur.
 ![Sprint 2](https://github.com/GOUA-Bootcamp133/Bootcamp/assets/136116755/dc8d0375-979a-4009-8fcd-4bbc853338c4)
 
 
+
+
+SPRİNT 3
+
+SPRİNT NOTLARI
+
+Uygulama fikrimizin ismini revize ettik. Hesap makinesinin, takvimin ve not defterinin kodlamasını tamamladık. Uygulamamızı çalışır bir durumda kullanıma hazır hale getirdik.
+
+SPRİNT İÇİNDE TAMAMLANMASI TAHMİN EDİLEN PUAN
+
+30 Puan
+
+PUAN TAMAMLAMA MANTIĞI
+
+Ön değerlendirme kriterlerinde toplamamız gereken toplam puan 90'dır. Sprint 2 için hedeflediğimiz puan 30 çünkü 3 sprinte bölündüğünde sprint başı 30 puan toplamamız gerekiyor.
+
+BACKLOG DÜZENİ VE STORY SEÇİMLERİ
+
+Backlogumuz 3 ana kısımdan oluşmaktadır. Yapılacaklar, devam edenler ve tamamlananlar. Renk renk ayrılmış ve altına da son durumları işaretlenmiştir. Story renklerinde kırmızı yapılacakları, sarı devam edenleri ve mavi tamamlananları temsil etmektedir.
+
+JURİYE NOT
+
+Uygulamamızın ismini revize ettik. Veresiye Defteri isimli uygulamamıza daha kısa ve daha orjinal durması adına 'hesApp' ismini verdik. Anvak her iki ismini de aktif bir şekilde kullanma kararı aldık. Uygulamamıza takvim özelliği eklemeye karar verdik ve kodlamasını tamamlayarak kullanıma hazır hale getirdik.
+
+DAILY SCRUM
+
+Daily Scrum toplantıları slack, whatsapp ve zoom üzerinden gerçekleştirilmektedir. Whatsapp konuşmalarımızdan örnekler ve kısaca Sprint 3'te neler yaptığımız ekte bulununan dosyanın için de mevcuttur.
+
+SPRİNT REVİEW
+
+Hesap makinesinin, takvimin ve not defterinin kodlaması tamamlandı. Uygulama çalışır bir vaziyette kullanıma hazır hale getirildi.
+
+SPRİNT RETROSPECTİVE
+
+3. Sprint için görev dağılımı yapılmıştır. Şu an görevlerde bir değişiklik yoktur.
+
+SPRINT BOARD VE UYGULAMA EKRAN GÖRÜNTÜLERİ
+
+Daily, Scrum ve App ile ilgili ekran resimleri ekte mevcuttur.
 
 ## Getting Started
 
