@@ -178,7 +178,7 @@ Hesap makinesinin, takvimin ve not defterinin kodlaması tamamlandı. Uygulama �
 
 SPRİNT RETROSPECTİVE
 
-3. Sprint için görev dağılımı yapılmıştır. Şu an görevlerde bir değişiklik yoktur.
+3.Sprint için görev dağılımı yapılmıştır. Şu an görevlerde bir değişiklik yoktur.
 
 SPRINT BOARD VE UYGULAMA EKRAN GÖRÜNTÜLERİ
 
