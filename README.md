@@ -170,7 +170,8 @@ Uygulamamızın ismini revize ettik. Veresiye Defteri isimli uygulamamıza daha 
 
 DAILY SCRUM
 
-Daily Scrum toplantıları slack, whatsapp ve zoom üzerinden gerçekleştirilmektedir. Whatsapp konuşmalarımızdan örnekler ve kısaca Sprint 3'te neler yaptığımız ekte bulununan dosyanın için de mevcuttur.
+Daily Scrum toplantıları slack, whatsapp ve zoom üzerinden gerçekleştirilmektedir. Whatsapp konuşmalarımızdan örnekler ve kısaca Sprint 3'te neler yaptığımız ekte bulununan dosyanın için de mevcuttur. [SPRİNT 3 DAILY.docx](https://github.com/GOUA-Bootcamp133/Bootcamp/files/12063586/SPRINT.3.DAILY.docx)
+
 
 SPRİNT REVİEW
 
